@@ -1,0 +1,9 @@
+@media screen and (min-width: 1000px) {
+	section{
+		margin-top:-255px;
+		margin-left:15%;
+   }
+	aside{
+		display: inline-block;
+   }
+}
